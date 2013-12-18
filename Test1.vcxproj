@@ -89,6 +89,7 @@
   <ItemGroup>
     <ClInclude Include="AppDelegate.h" />
     <ClInclude Include="AppMacros.h" />
+    <ClInclude Include="Ressort.h" />
     <ClInclude Include="MenuLayer.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -97,6 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AppDelegate.cpp" />
+    <ClCompile Include="Ressort.cpp" />
     <ClCompile Include="MenuLayer.cpp" />
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="Test1.cpp" />
